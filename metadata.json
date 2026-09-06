@@ -1,0 +1,6 @@
+{
+  "name": "ReelSave",
+  "description": "Instagram public Reel downloader to detect, preview, and save publicly accessible Reels directly to your device gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
